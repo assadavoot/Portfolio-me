@@ -50,7 +50,7 @@ export const skills = [
     area: "UI Libraries",
     title: "UI Frameworks & Libraries",
     icon: LayoutDashboard,
-    items: ["Ant Design", "Styled Components", "Shopify Polaris", "Formik", "Yup", "Zustand"]
+    items: ["Ant Design", "Styled Components", "Shopify Polaris", "Formik", "Yup", "Zustand", "Redux"]
   },
   {
     index: "03",
