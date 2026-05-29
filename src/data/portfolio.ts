@@ -121,25 +121,104 @@ export const education = {
 
 export const projects = [
   {
-    title: "Loyalty Points Back Office",
+    title: "CRM Rocket Platform",
     type: "CRM / Loyalty Platform",
     description:
-      "Operational dashboard for margin settings, transaction reports, reward configuration and internal user workflows.",
-    stack: ["React.js", "Next.js", "TypeScript", "REST API", "Ant Design"]
+      "Built CRM Rocket for loyalty operations: back-office modules for margin settings, transaction reports, reward configuration and internal workflows, plus responsive client flows for point redemption, discounts and rewards.",
+    url: null,
+    stack: [
+      "Node.js",
+      "Nest.js",
+      "MongoDB",
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "Zustand",
+      "Redux",
+      "State Management",
+      "REST API",
+      "API Integration",
+      "Ant Design",
+      "Responsive Design",
+      "Git"
+    ]
   },
   {
-    title: "Customer Reward Redemption",
-    type: "Customer-facing Web App",
+    title: "GB Wallet",
+    type: "Back-Office Platform",
     description:
-      "Redemption experience for products, discounts and rewards with API-backed eligibility and transaction flows.",
-    stack: ["React.js", "Next.js", "Zustand", "API Integration", "Responsive Design"]
+      "Built the full Back-Office web system for GB Wallet, including internal operations workflows, dashboard pages and reporting management.",
+    url: "https://www.gbwallet.co",
+    stack: [
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "Redux",
+      "State Management",
+      "REST API",
+      "API Integration",
+      "Ant Design",
+      "PostgreSQL",
+      "Docker",
+      "Postman",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design",
+      "Git"
+    ]
+  },
+  {
+    title: "Other Projects",
+    type: "Other Projects from Work Experience",
+    description:
+      "Mainly built back-office systems and internal operation workflows.",
+    url: null,
+    stack: [
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "Redux",
+      "State Management",
+      "REST API",
+      "API Integration",
+      "Ant Design",
+      "PostgreSQL",
+      "Docker",
+      "Postman",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design",
+      "Git"
+    ]
+  },
+  {
+    title: "No Name (Cat Hotel Booking Project)",
+    type: "Personal Project with Friend (In Progress)",
+    description:
+      "Currently developing a cat hotel booking platform; I handle the front-end for booking flow and core back-office pages.",
+    url: null,
+    stack: [
+      "React.js",
+      "Next.js",
+      "CSS",
+      "State Management",
+      "HTML",
+      "API Integration",
+      "Responsive Design",
+      "Git"
+    ]
   },
   {
     title: "Internal Operations Systems",
     type: "Enterprise Web Apps",
     description:
-      "Internal tools that convert business requirements into maintainable web applications and database-backed features.",
-    stack: ["Node.js", "Express.js", "SQL", "Supabase", "Postman"]
+      "Built internal-use web systems for document storage and management, plus dashboard pages for operational and reporting workflows.",
+    url: null,
+    stack: ["PHP", "CodeIgniter", "SQL Server", "HTML", "CSS", "JavaScript", "Responsive Design"]
   }
 ];
 
