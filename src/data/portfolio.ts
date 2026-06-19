@@ -81,34 +81,34 @@ export const experiences = [
     role: "Research & Development / Front-end Developer",
     company: "Rocket Innovation Co., Ltd.",
     points: [
-      "Developed and maintained front-end apps for loyalty points and CRM systems.",
-      "Built back-office features including margin settings, dashboards, transaction reports and reward configs.",
-      "Developed customer-facing redemption flows for products, discounts and rewards.",
-      "Integrated apps with internal APIs and external platform services.",
-      "Created reusable UI components to improve consistency and development speed."
+      "Designed and maintained scalable React / Next.js front-end architecture for loyalty points, CRM, dashboards, and reward management systems.",
+      "Built reusable TypeScript UI components, form validation patterns, and shared state logic to improve consistency and reduce duplicated implementation.",
+      "Developed back-office features for margin settings, transaction reports, analytics dashboards, and reward configurations.",
+      "Integrated REST APIs and external platform services with authentication flows, error handling, and data mapping for production workflows.",
+      "Optimized component rendering and API data flow to improve maintainability, performance, and user experience on data-heavy screens.",
+      "Owned feature delivery from requirement analysis through release. Collaborated with PMs, SAs, QA, backend teams, and supported production issues."
     ]
   },
   {
-    period: "March 2020 - May 2023",
-    role: "Programmer and Developer",
-    company: "Natachat Company Limited",
+    period: "Mar 2020 - May 2023",
+    role: "Programmer / Full Stack Developer",
+    company: "Natchat Company Limited",
     points: [
-      "Developed web app pages from UX/UI requirements using React.js and Next.js.",
-      "Integrated front-end applications with REST APIs based on technical specs.",
-      "Developed Node.js APIs to support front-end functionality.",
-      "Collaborated with PMs, SAs and testers before customer delivery.",
-      "Fixed bugs, improved features and supported production issues."
+      "Developed React.js and Next.js web application pages from UX/UI requirements and technical specifications.",
+      "Designed and implemented Node.js / Express REST APIs to support front-end workflows, CRUD features, and business logic.",
+      "Integrated front-end applications with APIs, authentication, validation, and database-driven data flows.",
+      "Worked with SQL database structures, reporting requirements, and API data models for internal systems.",
+      "Fixed bugs, improved existing features, reviewed implementation details, and supported production issue resolution."
     ]
   },
   {
-    period: "September 2018 - January 2020",
+    period: "Sep 2018 - Jan 2020",
     role: "Programmer and Developer",
-    company: "JMT Network Services Public Co., Ltd.",
+    company: "JMT Network Services Public Company Limited",
     points: [
-      "Collected business requirements and translated them into system features.",
-      "Designed database structures for internal applications.",
-      "Developed and maintained internal web applications.",
-      "Supported issue resolution and improved operational workflows."
+      "Collected business requirements from internal users and translated them into system features and operational workflows.",
+      "Designed database structures and developed internal web applications to support business processes.",
+      "Maintained existing systems, resolved issues, and improved usability, stability, and operational efficiency."
     ]
   }
 ];
